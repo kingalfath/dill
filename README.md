@@ -10,9 +10,12 @@ Claim faucet tokens on the ALPS Discord server if you haven't already.
 
 Installation Steps:
 1. Install the Node Software:
-curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh
+![image](https://github.com/user-attachments/assets/0d4222d9-3551-4f21-ad2a-dce14d1af299)
+
+**curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh
 chmod +x dill.sh
-./dill.sh
+./dill.sh**
+
 Node Setup:
 
 Select Option 1 if you are setting up a new node.
