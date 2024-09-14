@@ -42,10 +42,14 @@ Press Enter twice to complete the setup.
 Post-Installation Steps:
 
 
+
 Backup Validator Keys:
+
 
 Backup your file located at: /root/dill/validator_keys/.
 Deposit and Staking:
+
+
 
 
 Go to the Dill Staking Portal.
@@ -55,6 +59,7 @@ Click Continue > Send Deposit > Approve.
 Verify Node Status:
 
 
+
 Wait for 3 minutes to 1 hour for the node to appear on the explorer: ALPS Validator Explorer.
 Check Node Status:
 
@@ -62,16 +67,21 @@ Check Node Status:
 
 Health Check:
 
+
 ![image](https://github.com/user-attachments/assets/a3b5c4a2-c54e-4a5e-9026-f35ca536d554)
 
 
 
+
 View Public Key:
+
+
 ![image](https://github.com/user-attachments/assets/81aeacc6-aaf7-4716-a323-119fd527a052)
 
 
 
 Check Node Status:
+
 
 ![image](https://github.com/user-attachments/assets/a8ddc7ad-68ba-4602-988d-45ca090575bb)
 
